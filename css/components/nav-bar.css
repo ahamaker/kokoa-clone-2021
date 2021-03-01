@@ -22,9 +22,7 @@
   bottom: 15px;
 }
 
-.nav__notification.ellipsis__notification {
-  width: 5px;
-  height: 5px;
+.nav__notification.alarm {
   left: 30px;
   bottom: 30px;
 }
